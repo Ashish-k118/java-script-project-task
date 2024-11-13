@@ -1,0 +1,60 @@
+{
+  "cars": [
+    {
+      "carmodel": "sigma",
+      "carname": "Grand Vitara",
+      "carvariant": "petrol",
+      "carprice": "190000",
+      "id": "d292"
+    },
+    {
+      "id": "c2a9",
+      "carmodel": "HTX +",
+      "carname": "Kia Seltos",
+      "carvariant": "Petrol",
+      "carprice": "170000"
+    },
+    {
+      "carmodel": "sx",
+      "carname": "Tata Nexon",
+      "carvariant": "Electric",
+      "carprice": "170000",
+      "id": "2d9e"
+    },
+    {
+      "carmodel": "zeta",
+      "carname": "Baleno",
+      "carvariant": "Petrol",
+      "carprice": "950000",
+      "id": "44f3"
+    },
+    {
+      "carmodel": "VXI+",
+      "carname": "Swift",
+      "carvariant": "Diesel",
+      "carprice": "850000",
+      "id": "29c0"
+    },
+    {
+      "carmodel": "Alpha",
+      "carname": "Fronx",
+      "carvariant": "Petrol",
+      "carprice": "120000",
+      "id": "8af6"
+    },
+    {
+      "carmodel": "Shine +",
+      "carname": "MG Hector",
+      "carvariant": "Petrol",
+      "carprice": "2500000",
+      "id": "23a7"
+    },
+    {
+      "carmodel": "Lembo",
+      "carname": "LemborGini",
+      "carvariant": "Diesel",
+      "carprice": "2.65 CR",
+      "id": "e14f"
+    }
+  ]
+}
